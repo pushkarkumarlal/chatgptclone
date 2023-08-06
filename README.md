@@ -1,13 +1,13 @@
 
  
  ## prerequisite
- * Node.js: Make sure you have Node.js installed. You can download it from the official website: Node.js
-* Git: Install Git if you haven't already. You can find the installation instructions here: Git Installation Guide
-# steps to clone and run the project in your local device
+ * **Node.js**: Make sure you have Node.js installed. You can download it from the official website: Node.js
+* **Git**: Install Git if you haven't already. You can find the installation instructions here: Git Installation Guide
+
+> # steps to clone and run the project in your local device
 
 ## step-1: Clone the project
-``` git clone <repository_url>
-```
+``` git clone <repository_url> ```
 ## step-2: Install Project Dependencies
 * After cloning the project, navigate to the project directory using the terminal:
 ``` cd project-directory ```
