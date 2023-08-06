@@ -45,6 +45,27 @@ nav {
     text-align: center;
 
 }
+.feed{
+    overflow-y: scroll;
+    width:100%;
+    padding:0;
+}
+.feed li{
+    display: flex;
+    background-color: #4465;
+   
+    padding:20px;
+    margin:20px 0;
+}
+.feed p{
+color: rgba(255,255,255,0.8);
+font-size: 14px;
+text-align: left;
+}
+feed p.role{
+    min-width: 100px;
+}
+
 .info{
     color:rgba(255,255,255,0.5);
     font-size: 11px;
@@ -96,4 +117,7 @@ input:focus{
     right: 0;
     bottom: 10px;
     cursor: pointer;
+}
+.role{
+    margin-right: 10px;
 }
