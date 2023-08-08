@@ -29,5 +29,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.
 
 # To make any changes/update.
-* Create pull Request in `feature-branch-1.0`
+* Create pull Request in `feature*` branch
 
