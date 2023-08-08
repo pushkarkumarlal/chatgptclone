@@ -6,28 +6,28 @@
 
 > # steps to clone and run the project in your local device
 
-## step-1: Clone the project
-``` git clone <repository_url> ```
+## step-1: Fork the project in you GitHub and then Clone the project
+``` git clone <your forked repository_url> ```
 ## step-2: Install Project Dependencies
 * After cloning the project, navigate to the project directory using the terminal:
 ``` cd project-directory ```
 
-* Then, use Node Package Manager (npm) or Yarn to install the project dependencies:
+* Then, use Node Package Manager (npm) to install the project dependencies:
 ``` npm install```
 
-## Step 4: Run the Development Server
+## Step 4: Run the project
 
 ### Available Scripts
 
 In the project directory, you can run:
-
- `npm start`
+> **Run the Below given commands in two separate terminals**
+ `npm run start-frontend` and `npm run start-backend` 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes.
 
-
+# To make any changes/update.
+* Create pull Request in `feature-branch-1.0`
 
